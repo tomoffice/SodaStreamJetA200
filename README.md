@@ -1,6 +1,6 @@
 # SodaStreamJetA200
 A200 alteration Stand
-### Setting
+### Setting 1:1 svg
 Inkscape px to mm for import svg to Fusion   
 https://www.youtube.com/watch?v=-zAJq1zlLqE
 ### Scan Stand
