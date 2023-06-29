@@ -1,7 +1,7 @@
 # SodaStreamJetA200
 A200 alteration Stand
 ### Setting
-Inkscape px to mm for svg  
+Inkscape px to mm for import svg to Fusion   
 https://www.youtube.com/watch?v=-zAJq1zlLqE
 ### Scan Stand
 ![Image](https://github.com/tomoffice/SodaStreamJetA200/blob/main/S__15475029.jpg)  
